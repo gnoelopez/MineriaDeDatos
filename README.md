@@ -9,3 +9,7 @@
 [Ejercicio Clustering](https://github.com/patyarvizu/Mineria-de-datos/blob/master/EjercicioClustering.ipynb)
 
 [Ejercicios 1](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicios1_1_002.pdf)
+
+[Mapa Mental 2](https://github.com/gnoelopez/MineriaDeDatos/blob/master/MapaMental_2_1812678.pdf)
+
+[Resúmenes](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Resumenes_1812678.pdf)
