@@ -13,3 +13,7 @@
 [Mapa Mental 2](https://github.com/gnoelopez/MineriaDeDatos/blob/master/MapaMental_2_1812678.pdf)
 
 [Resúmenes](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Resumenes_1812678.pdf)
+
+## Fase 2
+
+[Análisis de Bases de Datos](https://github.com/gnoelopez/MineriaDeDatos/blob/master/AnalisisBD_1812678.pdf)
