@@ -17,3 +17,5 @@
 ## Fase 2
 
 [Análisis de Bases de Datos](https://github.com/gnoelopez/MineriaDeDatos/blob/master/AnalisisBD_1812678.pdf)
+
+[Ejercicios de Python](https://github.com/gnoelopez/MineriaDeDatos/blob/master/PythonBasico_1812678.ipynb)
