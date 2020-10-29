@@ -19,3 +19,5 @@
 [Análisis de Bases de Datos](https://github.com/gnoelopez/MineriaDeDatos/blob/master/AnalisisBD_1812678.pdf)
 
 [Ejercicios de Python](https://github.com/gnoelopez/MineriaDeDatos/blob/master/PythonBasico_1812678.ipynb)
+
+[Avance I Proyecto Integrador](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Avance1-PIA_13_002.pdf)
