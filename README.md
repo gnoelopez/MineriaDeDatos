@@ -21,3 +21,5 @@
 [Ejercicios de Python](https://github.com/gnoelopez/MineriaDeDatos/blob/master/PythonBasico_1812678.ipynb)
 
 [Avance I Proyecto Integrador](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Avance1-PIA_13_002.pdf)
+
+[Limpieza y Visualización de Datos](https://github.com/gnoelopez/MineriaDeDatos/blob/master/Ejercicios%20Python%20Miner%C3%ADa%20de%20Datos.ipynb)
