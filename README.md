@@ -27,3 +27,5 @@
 ## Fase 3
 
 [Avance II Proyecto Integrador](https://github.com/gnoelopez/MineriaDeDatos/blob/master/AvancePIA_II_002_13.ipynb)
+
+[Proyecto Integrador](https://github.com/gnoelopez/MineriaDeDatos/blob/master/PIA_002_13.pdf)
